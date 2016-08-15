@@ -45,8 +45,8 @@ _The `dist` folder is only tracked by git to allow third-party support like auto
 ## TODO list:
 
 - [x] Publish as a userscript.
-- [ ] Make a Chrome extension. Publish it.
-    - [ ] Need icons (19, 48, 128, disabled) (replace current ones, they're just for testing, I stole them from my brother!) =D
+- [x] Make a Chrome extension. Publish it.
+    - [x] Need icons (19, 48, 128, disabled) (replace current ones, they're just for testing, I stole them from my brother!) =D
 - [ ] Support multiple languages (`texts` in hard?)
 - [ ] Use a DB of sort to share `texts` (acts as a blacklist)
 - [ ] Settings to update the blacklist.
